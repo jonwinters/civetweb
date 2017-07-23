@@ -266,3 +266,6 @@ requests.db
 ci/lua
 
 
+.idea/
+cmake-build-debug/
+buildPath/
